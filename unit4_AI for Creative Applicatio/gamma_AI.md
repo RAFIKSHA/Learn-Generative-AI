@@ -1,7 +1,10 @@
 
 ---
-
 ### Professional Prompt for Gamma AI (or any AI PPT tool):
+***CHATGPT***
+"give the professional promt to generate professional presentation: topic name is :A solution/idea that can boost the current situation of the tourism industries including hotels, travel and others."
+
+
 
 **Prompt:**
 "Create a professional, visually appealing, and engaging PowerPoint presentation on the topic: *'A solution/idea that can boost the current situation of the tourism industries including hotels, travel, and others.'*
