@@ -1,4 +1,3 @@
-Perfect sir! Here are **5 more natural/environmental examples** with ready-to-use prompts for **Microsoft Bing Video Creator**, suitable for teaching or demo videos:
 
 ---
 
